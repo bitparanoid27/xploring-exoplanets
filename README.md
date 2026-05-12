@@ -1,4 +1,4 @@
-### Exploring exoplanets with Planetary Systems Composite Data - [NASA]([url](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)) 
+### Exploring exoplanets with Planetary Systems Composite Data - [NASA](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)
 
 #### This project explores the PSCompPars dataset using Python, pandas, and Google Colab.  
 
